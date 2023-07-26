@@ -1,0 +1,17 @@
+{
+    "name": "com.simplycods.oneofunity",
+    "version": "1.0.0",
+    "author": 
+    {
+        "name": "Simply-Cods"
+    }, 
+    "displayName": "OneOf Unity",
+    "description": "Easy to use F#-like discriminated unions for C# with exhaustive compile time matching.",
+    "license": "MIT",
+    "licensesUrl": "https://github.com/Simply-Cods/OneOfUnity/blob/main/LICENSE.md",
+    "documentationUrl": "https://github.com/Simply-Cods/OneOfUnity/blob/main/",
+    "keywords" 
+    [
+        "discriminated-unions"
+    ]
+}
