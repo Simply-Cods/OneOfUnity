@@ -10,7 +10,7 @@
     "license": "MIT",
     "licensesUrl": "https://github.com/Simply-Cods/OneOfUnity/blob/main/LICENSE.md",
     "documentationUrl": "https://github.com/Simply-Cods/OneOfUnity/blob/main/",
-    "keywords" 
+    "keywords":
     [
         "discriminated-unions"
     ]

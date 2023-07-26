@@ -6,14 +6,14 @@
         "name": "Simply-Cods"
     }, 
     "displayName": "OneOf Unity Extended",
-    "description": "Easy to use F#-like discriminated unions for C# with exhaustive compile time matching. Now extended to support a ridiculis ammount of generic arguments.",
+    "description": "Easy to use F#-like discriminated unions for C# with exhaustive compile time matching. Now extended to support a ridiculous amount of generic arguments.",
     "dependencies": {
         "com.simplycods.oneofunity": "1.0.0"
     },
     "license": "MIT",
     "licensesUrl": "https://github.com/Simply-Cods/OneOfUnity/blob/main/LICENSE.md",
     "documentationUrl": "https://github.com/Simply-Cods/OneOfUnity/blob/main/",
-    "keywords" 
+    "keywords":
     [
         "discriminated-unions"
     ]

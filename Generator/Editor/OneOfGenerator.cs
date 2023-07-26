@@ -96,7 +96,7 @@ namespace OneOf.Generator.Editor
             RemakeFile(thirdPartyPath, thirdPartyText);
 
             packageManifestFile = Path.Combine(packageRoot, PackageManifestFileName);
-            manifest = GetPackageManifest(true, "Easy to use F#-like discriminated unions for C# with exhaustive compile time matching. Now extended to support a ridiculis ammount of generic arguments.", " Extended", ".extended");
+            manifest = GetPackageManifest(true, "Easy to use F#-like discriminated unions for C# with exhaustive compile time matching. Now extended to support a ridiculous amount of generic arguments.", " Extended", ".extended");
             RemakeFile(packageManifestFile, manifest);
 
             // Type generation for extended package
@@ -145,7 +145,7 @@ namespace OneOf.Generator.Editor
 ")}    ""license"": ""MIT"",
     ""licensesUrl"": ""https://github.com/Simply-Cods/OneOfUnity/blob/main/LICENSE.md"",
     ""documentationUrl"": ""https://github.com/Simply-Cods/OneOfUnity/blob/main/"",
-    ""keywords"" 
+    ""keywords"":
     [
         ""discriminated-unions""
     ]
